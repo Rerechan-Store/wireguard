@@ -15,7 +15,7 @@ LIGHT='\033[0;37m'
 # Getting
 MYIP=$(wget -qO- ipinfo.io/ip);
 # Link Hosting Kalian
-beginner="raw.githubusercontent.com/senowahyu62/scriptvps/main/wireguard"
+beginner="https://raw.githubusercontent.com/Rerechan-Store/wireguard/main"
 # Check OS version
 if [[ -e /etc/debian_version ]]; then
 	source /etc/os-release
